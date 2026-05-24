@@ -10,6 +10,14 @@ This project explores AI-assisted workflow automation using n8n, spreadsheets, N
 
 Input → Processing → AI enrichment → Database/Notion → Output
 
+technical-workflow-automation/
+│
+├── README.md
+├── diagrams/
+├── screenshots/
+├── workflows/
+└── docs/
+
 3. Tool-box
      n8n
     Gemini/OpenAI
